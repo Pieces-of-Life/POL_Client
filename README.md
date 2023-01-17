@@ -15,13 +15,13 @@ https://www.notion.so/Pieces-Of-Life-080927ee5be24e16ae7a4fb2441fd38c
 
 <aside>
     
-✨ [고승희](https://github.com/alex-koko) - 
+✨ [고승희](https://github.com/alex-koko) 
 
-✨ [정효주](https://github.com/hj-jung) - 
+✨ [정효주](https://github.com/hj-jung) 
 
-✨ [이보현](https://github.com/frombozztoang) - 
+✨ [이보현](https://github.com/frombozztoang) 
   
-✨ [문서영](https://github.com/seona-moon) - 
+✨ [문서영](https://github.com/seona-moon) 
 
 </aside>
 
