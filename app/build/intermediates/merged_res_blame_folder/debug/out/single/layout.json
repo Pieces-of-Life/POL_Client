@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_book.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_delete.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_delete.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/item_book.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/item_book.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_my.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_my.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_save_color.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_save_color.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_message.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_message.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/item_noti.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/item_noti.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_save_intro.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_save_intro.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_home.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_object.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_object.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_user.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_start_newstory.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_start_newstory.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_place.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_place.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_bottom_nav_bar.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_year.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_year.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_person.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_person.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/toolbar.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_mybook.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_mybook.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_story.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_story.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_save_title.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_save_title.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_explore.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_explore.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_age.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_age.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_matter.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_matter.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_open.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_open.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_delete_ok.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_delete_ok.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_my_detailed.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_my_detailed.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_color.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_color.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_story_write.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_story_write.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_story_ok.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_story_ok.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_tag_mood.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_tag_mood.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_noti.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_noti.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_detailed_explore.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_detailed_explore.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_chat.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_save_final.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_save_final.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/fragment_search.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/custom_dialog_open_ok.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/custom_dialog_open_ok.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/item_fragment_detail.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/item_fragment_detail.xml"
+    },
+    {
+        "merged": "com.umc.pieciesoflife.app-mergeDebugResources-41:/layout/activity_chat_send.xml",
+        "source": "com.umc.pieciesoflife.app-main-44:/layout/activity_chat_send.xml"
+    }
+]

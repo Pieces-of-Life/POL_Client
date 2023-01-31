@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.umc.pieciesoflife"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <permission
+        android:name="com.umc.pieciesoflife.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.umc.pieciesoflife.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Pieciesoflife" >
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.StartNewstoryAcitivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.MyActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.ChatActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.ChatSendActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.ExploreActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.ExploreDetailedActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.MyDetailedActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.NotiActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.SaveColorActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.SaveFinalActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.SaveIntroActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.SaveTitleActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.StoryWriteActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagAgeActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagMatterActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagMoodActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagObjectActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagPersonActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagPlaceActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.Acitivity.TagYearActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.umc.pieciesoflife.BottomNavBar.BottomNavBarActivity"
+            android:exported="true" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.umc.pieciesoflife.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
